@@ -1,27 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a81f7a8d-4cea-4c94-b85a-0ab411aa6a8f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/Banner1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Banner2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Banner3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Dr.HologramLogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Dr.andPatient.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/PORTL-Hologram-Machine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Video-portl.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/about-img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/about-img2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/about.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/cidEE7C372E-B6B6-4525-8A02-579FF9D60B29.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/clipboard-icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/doctor-icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/dr.hologram-video1.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/national-cancer-institute-mBrfAiw_CZA-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portl-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/stethoscope-icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/thisisengineering-raeng-J0XncLhc0vY-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/thisisengineering-raeng-mF6gB6hV5OU-unsplash.jpg" afterDir="false" />
-    </list>
+    <list default="true" id="a81f7a8d-4cea-4c94-b85a-0ab411aa6a8f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +47,8 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -70,12 +67,35 @@
       <updated>1606231650286</updated>
       <workItem from="1606231651655" duration="10153000" />
       <workItem from="1606274064264" duration="25344000" />
-      <workItem from="1608304788541" duration="10201000" />
+      <workItem from="1608304788541" duration="10964000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="695" y="180" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608318276756">
@@ -83,5 +103,9 @@
     </state>
     <state x="695" y="180" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1608318276756" />
     <state x="695" y="187" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.819@0.23.1440.819" timestamp="1608318133855" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1608328393853">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1608328393853" />
   </component>
 </project>
