@@ -1,0 +1,108 @@
+.nav > li > a
+{
+    font-size: 14px;
+    color: #d6d6d6;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 10px;
+}
+
+.nav > li > a:hover
+{
+    color: #ffffff;
+}
+
+.nav img
+{
+    width: 220px;
+    height: 42px;
+    margin-left: -150px;
+    margin-right: 50px;
+    margin-top: -6px;
+}
+
+.nav-size
+{
+    height: 60px;
+}
+
+
+body, html {
+    height: 100%;
+}
+
+.nav-color
+{
+    background-color: #333333;
+}
+
+.about-headerimg
+{
+    height: 920px;
+    width: 1450px;
+}
+
+.info-section
+{
+    background-color: #FAFAFA;
+}
+
+.info-h2
+{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    color: black;
+    text-align: center;
+}
+
+.info-p
+{
+    padding-left: 170px;
+    padding-right: 170px;
+    padding-bottom: 40px;
+}
+
+.info-img-about
+{
+    width: 530px;
+    height: 560px;
+}
+
+.info-h4
+{
+    text-align: center;
+    padding-top: 80px;
+}
+
+.myimg
+{
+    width:500px;
+    height:640px;
+}
+
+.applications-img
+{
+    padding-top: 70px;
+}
+
+.app-h3
+{
+    padding-top: 160px;
+    padding-left: 100px;
+    color: black;
+}
+
+.app-ul
+{
+    padding-top: 20px;
+    padding-bottom: 40px;
+    padding-left: 100px;
+    padding-right: 400px;
+    color: #888888;
+}
+
+.container-img
+{
+    width: 100%;
+    height: 100%;
+    background-color: #FAFAFA;
+}
